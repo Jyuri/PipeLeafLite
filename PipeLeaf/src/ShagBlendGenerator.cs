@@ -367,7 +367,7 @@ namespace PipeLeaf
             }
         }
 
-        private Dictionary<string, List<SmokableEffect>> GenerateBlends()
+        private Dictionary<string, List<SmokableEffect>> GenerateBlends() // Needs changes
         {
             var blends = new Dictionary<string, List<SmokableEffect>>();
 
@@ -450,7 +450,69 @@ namespace PipeLeaf
             return sortedEffects;
         }
 
-        private List<Recipe> GenerateRecipes(Dictionary<string, List<SmokableEffect>> blends)
+        private List<Recipe> GenericGenerateRecipes(Dictionary<string, List<SmokableEffect>> blends)
+        {
+            var recipes = new List<Recipe>();
+            var letterMapping = new Dictionary<string, string>();
+            var usedLetters = new HashSet<string>();
+
+            foreach (var blendName in blends.Keys)
+            {
+                var parts = blendName.Replace("shagblend-", "").Split('-');
+                if (parts.Length != 2) continue;
+
+                var ingredient1 = parts[0];
+                var ingredient2 = parts[1];
+
+                if (!letterMapping.ContainsKey(ingredient1))
+                    letterMapping[ingredient1] = GetUniqueLetterCode(ingredient1, usedLetters);
+
+                if (!letterMapping.ContainsKey(ingredient2))
+                    letterMapping[ingredient2] = GetUniqueLetterCode(ingredient2, usedLetters);
+
+                var letter1 = "A";
+                var letter2 = "B";
+                var fillerLetter = "S";
+
+                var pattern = $"_{letter1}_{letter2}_{fillerLetter}";
+
+                var recipe = new Recipe
+                {
+                    IngredientPattern = pattern,
+                    Ingredients = new Dictionary<string, RecipeIngredient>
+                    {
+                        [letter1] = new RecipeIngredient
+                        {
+                            Code = $"pipeleaf:smokable-{ingredient1}-shag",
+                            Quantity = _config.PrimaryIngredientQuantity
+                        },
+                        [letter2] = new RecipeIngredient
+                        {
+                            Code = $"pipeleaf:smokable-{ingredient2}-shag",
+                            Quantity = _config.SecondaryIngredientQuantity
+                        },
+                        [fillerLetter] = new RecipeIngredient
+                        {
+                            Code = $"pipeleaf:smokable-{_config.FillerIngredient}-shag",
+                            Quantity = _config.FillerQuantity
+                        }
+                    },
+                    Width = _config.RecipeWidth,
+                    Height = _config.RecipeHeight,
+                    Output = new RecipeIngredient
+                    {
+                        Code = $"pipeleaf:shagblend-{ingredient1}-{ingredient2}",
+                        Quantity = _config.TotalRecipeQuantity
+                    }
+                };
+
+                recipes.Add(recipe);
+            }
+
+            return recipes;
+        }
+        
+        private List<Recipe> GenerateRecipes(Dictionary<string, List<SmokableEffect>> blends) /// Needs changes
         {
             var recipes = new List<Recipe>();
             var letterMapping = new Dictionary<string, string>();
@@ -746,7 +808,7 @@ namespace PipeLeaf
             Console.WriteLine($"Added/updated {_blendDisplayNames.Count * 2} blend entries in language file");
         }
 
-        private List<Recipe> GenerateCuredRecipes(Dictionary<string, List<SmokableEffect>> blends)
+        private List<Recipe> GenerateCuredRecipes(Dictionary<string, List<SmokableEffect>> blends) /// Needs changing
         {
             var recipes = new List<Recipe>();
 
