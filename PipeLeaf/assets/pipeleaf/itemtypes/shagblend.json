@@ -69,36 +69,7 @@
         }
       ]
     },
-    "shagblend-edelweiss-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 48
-    },
-    "shagblend-orangemallow-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -128,37 +99,7 @@
       ],
       "maxstacksize": 8
     },
-    "shagblend-poisonoak-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.75,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 8
-    },
     "shagblend-catmint-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 32
-    },
-    "shagblend-goldenpoppy-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -187,35 +128,7 @@
         }
       ]
     },
-    "shagblend-cornflower-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chamomile-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -243,35 +156,7 @@
         }
       ]
     },
-    "shagblend-lavender-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marjoram-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -299,35 +184,7 @@
         }
       ]
     },
-    "shagblend-marshmallow-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-mint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mint-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -355,35 +212,7 @@
         }
       ]
     },
-    "shagblend-rosemary-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-saffron": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -412,36 +241,7 @@
       ],
       "maxstacksize": 32
     },
-    "shagblend-sage-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 32
-    },
     "shagblend-catmint-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -469,35 +269,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -525,35 +297,7 @@
         }
       ]
     },
-    "shagblend-mugwort-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-chicory": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -581,35 +325,7 @@
         }
       ]
     },
-    "shagblend-marigold-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -637,35 +353,7 @@
         }
       ]
     },
-    "shagblend-angelica-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-arnica": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -693,35 +381,7 @@
         }
       ]
     },
-    "shagblend-horehound-catmint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-catmint-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-catmint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -750,21 +410,6 @@
       ],
       "maxstacksize": 24
     },
-    "shagblend-orangemallow-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 24
-    },
     "shagblend-edelweiss-poisonoak": {
       "smokableEffects": [
         {
@@ -779,36 +424,7 @@
         }
       ]
     },
-    "shagblend-poisonoak-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.35,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 16
-    },
-    "shagblend-goldenpoppy-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -838,36 +454,7 @@
       ],
       "maxstacksize": 24
     },
-    "shagblend-cornflower-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 24
-    },
     "shagblend-edelweiss-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chamomile-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -895,35 +482,7 @@
         }
       ]
     },
-    "shagblend-lavender-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marjoram-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -951,35 +510,7 @@
         }
       ]
     },
-    "shagblend-marshmallow-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-mint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mint-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1007,35 +538,7 @@
         }
       ]
     },
-    "shagblend-rosemary-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-saffron": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1064,36 +567,7 @@
       ],
       "maxstacksize": 16
     },
-    "shagblend-sage-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.65,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 16
-    },
     "shagblend-edelweiss-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1121,35 +595,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.65,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1177,35 +623,7 @@
         }
       ]
     },
-    "shagblend-mugwort-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-chicory": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1233,35 +651,7 @@
         }
       ]
     },
-    "shagblend-marigold-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1289,35 +679,7 @@
         }
       ]
     },
-    "shagblend-angelica-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-arnica": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-edelweiss": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1345,20 +707,6 @@
         }
       ]
     },
-    "shagblend-horehound-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-edelweiss-ginseng": {
       "smokableEffects": [
         {
@@ -1373,36 +721,7 @@
         }
       ]
     },
-    "shagblend-ginseng-edelweiss": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.25,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-orangemallow-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 8
-    },
-    "shagblend-poisonoak-orangemallow": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1432,37 +751,7 @@
       ],
       "maxstacksize": 48
     },
-    "shagblend-goldenpoppy-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 48
-    },
     "shagblend-orangemallow-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ],
-      "maxstacksize": 48
-    },
-    "shagblend-cornflower-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1491,20 +780,6 @@
         }
       ]
     },
-    "shagblend-chamomile-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-orangemallow-lavender": {
       "smokableEffects": [
         {
@@ -1519,36 +794,7 @@
         }
       ]
     },
-    "shagblend-lavender-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-orangemallow-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 48
-    },
-    "shagblend-marjoram-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1578,36 +824,7 @@
       ],
       "maxstacksize": 64
     },
-    "shagblend-marshmallow-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ],
-      "maxstacksize": 64
-    },
     "shagblend-orangemallow-mint": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-mint-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1635,35 +852,7 @@
         }
       ]
     },
-    "shagblend-rosemary-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-orangemallow-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-saffron-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1691,35 +880,7 @@
         }
       ]
     },
-    "shagblend-sage-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-orangemallow-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-stingingnettle-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1747,35 +908,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-orangemallow-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-orangemallow": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -1803,35 +936,7 @@
         }
       ]
     },
-    "shagblend-mugwort-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-orangemallow-chicory": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-chicory-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1859,35 +964,7 @@
         }
       ]
     },
-    "shagblend-marigold-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-orangemallow-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-yarrow-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1915,35 +992,7 @@
         }
       ]
     },
-    "shagblend-angelica-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-orangemallow-arnica": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-arnica-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -1971,35 +1020,7 @@
         }
       ]
     },
-    "shagblend-horehound-orangemallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-orangemallow-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.15,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-ginseng-orangemallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -2027,35 +1048,7 @@
         }
       ]
     },
-    "shagblend-goldenpoppy-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-cornflower-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2083,35 +1076,7 @@
         }
       ]
     },
-    "shagblend-chamomile-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-lavender": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-lavender-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2139,35 +1104,7 @@
         }
       ]
     },
-    "shagblend-marjoram-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marshmallow-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2195,35 +1132,7 @@
         }
       ]
     },
-    "shagblend-mint-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-rosemary-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2251,35 +1160,7 @@
         }
       ]
     },
-    "shagblend-saffron-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.19999999999999996,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-sage-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2307,35 +1188,7 @@
         }
       ]
     },
-    "shagblend-stingingnettle-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stjohnswort-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2363,35 +1216,7 @@
         }
       ]
     },
-    "shagblend-thyme-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.19999999999999996,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mugwort-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2419,35 +1244,7 @@
         }
       ]
     },
-    "shagblend-chicory-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-marigold": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marigold-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2475,35 +1272,7 @@
         }
       ]
     },
-    "shagblend-yarrow-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-angelica": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2531,35 +1300,7 @@
         }
       ]
     },
-    "shagblend-arnica-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-poisonoak-horehound": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-poisonoak": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2587,35 +1328,7 @@
         }
       ]
     },
-    "shagblend-ginseng-poisonoak": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": -0.6,
-          "cooldown": 0
-        },
-        {
-          "type": "healthpoints",
-          "amount": -5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-cornflower-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -2643,20 +1356,6 @@
         }
       ]
     },
-    "shagblend-chamomile-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-lavender": {
       "smokableEffects": [
         {
@@ -2666,30 +1365,7 @@
         }
       ]
     },
-    "shagblend-lavender-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-marjoram-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -2717,35 +1393,7 @@
         }
       ]
     },
-    "shagblend-marshmallow-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-mint": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mint-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -2773,35 +1421,7 @@
         }
       ]
     },
-    "shagblend-rosemary-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -2829,35 +1449,7 @@
         }
       ]
     },
-    "shagblend-sage-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -2885,35 +1477,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -2941,35 +1505,7 @@
         }
       ]
     },
-    "shagblend-mugwort-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-chicory": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -2997,35 +1533,7 @@
         }
       ]
     },
-    "shagblend-marigold-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3053,35 +1561,7 @@
         }
       ]
     },
-    "shagblend-angelica-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-arnica": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3109,35 +1589,7 @@
         }
       ]
     },
-    "shagblend-horehound-goldenpoppy": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-goldenpoppy-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 5,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-goldenpoppy": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3165,35 +1617,7 @@
         }
       ]
     },
-    "shagblend-chamomile-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-lavender-cornflower": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3221,35 +1645,7 @@
         }
       ]
     },
-    "shagblend-marjoram-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-cornflower-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marshmallow-cornflower": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -3272,15 +1668,6 @@
         }
       ]
     },
-    "shagblend-mint-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-rosemary": {
       "smokableEffects": [
         {
@@ -3290,30 +1677,7 @@
         }
       ]
     },
-    "shagblend-rosemary-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-cornflower": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -3341,30 +1705,7 @@
         }
       ]
     },
-    "shagblend-sage-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-cornflower": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -3382,30 +1723,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-cornflower": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -3433,30 +1751,7 @@
         }
       ]
     },
-    "shagblend-mugwort-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-cornflower": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -3474,25 +1769,7 @@
         }
       ]
     },
-    "shagblend-marigold-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-cornflower": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -3510,25 +1787,7 @@
         }
       ]
     },
-    "shagblend-angelica-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-cornflower": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -3546,15 +1805,6 @@
         }
       ]
     },
-    "shagblend-horehound-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-cornflower-ginseng": {
       "smokableEffects": [
         {
@@ -3564,30 +1814,7 @@
         }
       ]
     },
-    "shagblend-ginseng-cornflower": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-lavender-chamomile": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3616,36 +1843,7 @@
       ],
       "maxstacksize": 64
     },
-    "shagblend-marjoram-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ],
-      "maxstacksize": 64
-    },
     "shagblend-chamomile-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marshmallow-chamomile": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -3673,35 +1871,7 @@
         }
       ]
     },
-    "shagblend-mint-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-rosemary-chamomile": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3729,35 +1899,7 @@
         }
       ]
     },
-    "shagblend-saffron-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-sage-chamomile": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -3785,35 +1927,7 @@
         }
       ]
     },
-    "shagblend-stingingnettle-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stjohnswort-chamomile": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3841,35 +1955,7 @@
         }
       ]
     },
-    "shagblend-thyme-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mugwort-chamomile": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -3897,35 +1983,7 @@
         }
       ]
     },
-    "shagblend-chicory-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-marigold": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marigold-chamomile": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -3953,35 +2011,7 @@
         }
       ]
     },
-    "shagblend-yarrow-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-angelica": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-chamomile": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4009,35 +2039,7 @@
         }
       ]
     },
-    "shagblend-arnica-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chamomile-horehound": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-chamomile": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4065,35 +2067,7 @@
         }
       ]
     },
-    "shagblend-ginseng-chamomile": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-marjoram-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4121,35 +2095,7 @@
         }
       ]
     },
-    "shagblend-marshmallow-lavender": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-mint": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mint-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4177,35 +2123,7 @@
         }
       ]
     },
-    "shagblend-rosemary-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-lavender": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -4233,35 +2151,7 @@
         }
       ]
     },
-    "shagblend-sage-lavender": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4289,35 +2179,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-lavender": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -4345,35 +2207,7 @@
         }
       ]
     },
-    "shagblend-mugwort-lavender": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-chicory": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4401,35 +2235,7 @@
         }
       ]
     },
-    "shagblend-marigold-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4457,35 +2263,7 @@
         }
       ]
     },
-    "shagblend-angelica-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-arnica": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4513,35 +2291,7 @@
         }
       ]
     },
-    "shagblend-horehound-lavender": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-lavender-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-lavender": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4569,35 +2319,7 @@
         }
       ]
     },
-    "shagblend-marshmallow-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marjoram-mint": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-mint-marjoram": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4625,35 +2347,7 @@
         }
       ]
     },
-    "shagblend-rosemary-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-marjoram-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-marjoram": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -4681,35 +2375,7 @@
         }
       ]
     },
-    "shagblend-sage-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marjoram-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-stingingnettle-marjoram": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4737,35 +2403,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-marjoram-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-marjoram": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -4793,35 +2431,7 @@
         }
       ]
     },
-    "shagblend-mugwort-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marjoram-chicory": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-chicory-marjoram": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4849,35 +2459,7 @@
         }
       ]
     },
-    "shagblend-marigold-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-marjoram-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-yarrow-marjoram": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4905,35 +2487,7 @@
         }
       ]
     },
-    "shagblend-angelica-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-marjoram-arnica": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-arnica-marjoram": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -4961,35 +2515,7 @@
         }
       ]
     },
-    "shagblend-horehound-marjoram": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
     "shagblend-marjoram-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "tiredness",
-          "amount": 4,
-          "cooldown": 0
-        },
-        {
-          "type": "hungerrate",
-          "amount": -0.5,
-          "cooldown": 900
-        }
-      ]
-    },
-    "shagblend-ginseng-marjoram": {
       "smokableEffects": [
         {
           "type": "tiredness",
@@ -5017,35 +2543,7 @@
         }
       ]
     },
-    "shagblend-mint-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-rosemary-marshmallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5073,35 +2571,7 @@
         }
       ]
     },
-    "shagblend-saffron-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-sage-marshmallow": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -5129,35 +2599,7 @@
         }
       ]
     },
-    "shagblend-stingingnettle-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stjohnswort-marshmallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5185,35 +2627,7 @@
         }
       ]
     },
-    "shagblend-thyme-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mugwort-marshmallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5241,35 +2655,7 @@
         }
       ]
     },
-    "shagblend-chicory-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-marigold": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marigold-marshmallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5297,35 +2683,7 @@
         }
       ]
     },
-    "shagblend-yarrow-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-angelica": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-marshmallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5353,35 +2711,7 @@
         }
       ]
     },
-    "shagblend-arnica-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marshmallow-horehound": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-marshmallow": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5409,20 +2739,6 @@
         }
       ]
     },
-    "shagblend-ginseng-marshmallow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.05,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-rosemary": {
       "smokableEffects": [
         {
@@ -5432,30 +2748,7 @@
         }
       ]
     },
-    "shagblend-rosemary-mint": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-mint": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5483,30 +2776,7 @@
         }
       ]
     },
-    "shagblend-sage-mint": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-mint": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5524,30 +2794,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-mint": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-mint": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -5575,30 +2822,7 @@
         }
       ]
     },
-    "shagblend-mugwort-mint": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-mint": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5616,25 +2840,7 @@
         }
       ]
     },
-    "shagblend-marigold-mint": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-mint": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5652,25 +2858,7 @@
         }
       ]
     },
-    "shagblend-angelica-mint": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-mint": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5688,15 +2876,6 @@
         }
       ]
     },
-    "shagblend-horehound-mint": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mint-ginseng": {
       "smokableEffects": [
         {
@@ -5706,30 +2885,7 @@
         }
       ]
     },
-    "shagblend-ginseng-mint": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-saffron-rosemary": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -5757,30 +2913,7 @@
         }
       ]
     },
-    "shagblend-sage-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stingingnettle-rosemary": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5798,30 +2931,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-rosemary": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -5849,30 +2959,7 @@
         }
       ]
     },
-    "shagblend-mugwort-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-rosemary": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5890,25 +2977,7 @@
         }
       ]
     },
-    "shagblend-marigold-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-rosemary": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5926,25 +2995,7 @@
         }
       ]
     },
-    "shagblend-angelica-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-rosemary": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -5962,15 +3013,6 @@
         }
       ]
     },
-    "shagblend-horehound-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-rosemary-ginseng": {
       "smokableEffects": [
         {
@@ -5980,30 +3022,7 @@
         }
       ]
     },
-    "shagblend-ginseng-rosemary": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-saffron-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-sage-saffron": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6031,35 +3050,7 @@
         }
       ]
     },
-    "shagblend-stingingnettle-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-saffron-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stjohnswort-saffron": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -6087,35 +3078,7 @@
         }
       ]
     },
-    "shagblend-thyme-saffron": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-saffron-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mugwort-saffron": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -6143,35 +3106,7 @@
         }
       ]
     },
-    "shagblend-chicory-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-saffron-marigold": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marigold-saffron": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -6199,35 +3134,7 @@
         }
       ]
     },
-    "shagblend-yarrow-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-saffron-angelica": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-saffron": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -6255,35 +3162,7 @@
         }
       ]
     },
-    "shagblend-arnica-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-saffron-horehound": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-saffron": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -6311,20 +3190,6 @@
         }
       ]
     },
-    "shagblend-ginseng-saffron": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.1,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-sage-stingingnettle": {
       "smokableEffects": [
         {
@@ -6339,35 +3204,7 @@
         }
       ]
     },
-    "shagblend-stingingnettle-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-sage-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-stjohnswort-sage": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6396,36 +3233,7 @@
       ],
       "maxstacksize": 32
     },
-    "shagblend-thyme-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.8,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ],
-      "maxstacksize": 32
-    },
     "shagblend-sage-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mugwort-sage": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6453,35 +3261,7 @@
         }
       ]
     },
-    "shagblend-chicory-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-sage-marigold": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marigold-sage": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6509,35 +3289,7 @@
         }
       ]
     },
-    "shagblend-yarrow-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-sage-angelica": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-sage": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6565,35 +3317,7 @@
         }
       ]
     },
-    "shagblend-arnica-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-sage-horehound": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-sage": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6621,20 +3345,6 @@
         }
       ]
     },
-    "shagblend-ginseng-sage": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stingingnettle-stjohnswort": {
       "smokableEffects": [
         {
@@ -6644,30 +3354,7 @@
         }
       ]
     },
-    "shagblend-stjohnswort-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stingingnettle-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-stingingnettle": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6695,30 +3382,7 @@
         }
       ]
     },
-    "shagblend-mugwort-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stingingnettle-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-stingingnettle": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -6736,25 +3400,7 @@
         }
       ]
     },
-    "shagblend-marigold-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stingingnettle-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-stingingnettle": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -6772,25 +3418,7 @@
         }
       ]
     },
-    "shagblend-angelica-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stingingnettle-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-stingingnettle": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -6808,15 +3436,6 @@
         }
       ]
     },
-    "shagblend-horehound-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stingingnettle-ginseng": {
       "smokableEffects": [
         {
@@ -6826,30 +3445,7 @@
         }
       ]
     },
-    "shagblend-ginseng-stingingnettle": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stjohnswort-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-thyme-stjohnswort": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -6877,30 +3473,7 @@
         }
       ]
     },
-    "shagblend-mugwort-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stjohnswort-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-stjohnswort": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -6918,25 +3491,7 @@
         }
       ]
     },
-    "shagblend-marigold-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stjohnswort-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-stjohnswort": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -6954,25 +3509,7 @@
         }
       ]
     },
-    "shagblend-angelica-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stjohnswort-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-stjohnswort": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -6990,15 +3527,6 @@
         }
       ]
     },
-    "shagblend-horehound-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-stjohnswort-ginseng": {
       "smokableEffects": [
         {
@@ -7008,30 +3536,7 @@
         }
       ]
     },
-    "shagblend-ginseng-stjohnswort": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-thyme-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-mugwort-thyme": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -7059,35 +3564,7 @@
         }
       ]
     },
-    "shagblend-chicory-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-thyme-marigold": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-marigold-thyme": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -7115,35 +3592,7 @@
         }
       ]
     },
-    "shagblend-yarrow-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-thyme-angelica": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-thyme": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -7171,35 +3620,7 @@
         }
       ]
     },
-    "shagblend-arnica-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-thyme-horehound": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-thyme": {
       "smokableEffects": [
         {
           "type": "temporalstability",
@@ -7227,35 +3648,7 @@
         }
       ]
     },
-    "shagblend-ginseng-thyme": {
-      "smokableEffects": [
-        {
-          "type": "temporalstability",
-          "amount": 0.4,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mugwort-chicory": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-chicory-mugwort": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -7283,35 +3676,7 @@
         }
       ]
     },
-    "shagblend-marigold-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mugwort-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-mugwort": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -7339,35 +3704,7 @@
         }
       ]
     },
-    "shagblend-angelica-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mugwort-arnica": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-mugwort": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -7395,35 +3732,7 @@
         }
       ]
     },
-    "shagblend-horehound-mugwort": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-mugwort-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "intoxication",
-          "amount": 0.02,
-          "cooldown": 0
-        },
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-mugwort": {
       "smokableEffects": [
         {
           "type": "intoxication",
@@ -7446,25 +3755,7 @@
         }
       ]
     },
-    "shagblend-marigold-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chicory-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-yarrow-chicory": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7482,25 +3773,7 @@
         }
       ]
     },
-    "shagblend-angelica-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chicory-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-chicory": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7518,25 +3791,7 @@
         }
       ]
     },
-    "shagblend-horehound-chicory": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-chicory-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-chicory": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7554,25 +3809,7 @@
         }
       ]
     },
-    "shagblend-yarrow-marigold": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marigold-angelica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-marigold": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7590,25 +3827,7 @@
         }
       ]
     },
-    "shagblend-arnica-marigold": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-marigold-horehound": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-marigold": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7626,25 +3845,7 @@
         }
       ]
     },
-    "shagblend-ginseng-marigold": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-yarrow-angelica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-angelica-yarrow": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7662,25 +3863,7 @@
         }
       ]
     },
-    "shagblend-arnica-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-yarrow-horehound": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-horehound-yarrow": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7698,25 +3881,7 @@
         }
       ]
     },
-    "shagblend-ginseng-yarrow": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-angelica-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-arnica-angelica": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7734,25 +3899,7 @@
         }
       ]
     },
-    "shagblend-horehound-angelica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-angelica-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-angelica": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
@@ -7770,15 +3917,6 @@
         }
       ]
     },
-    "shagblend-horehound-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-arnica-ginseng": {
       "smokableEffects": [
         {
@@ -7788,25 +3926,7 @@
         }
       ]
     },
-    "shagblend-ginseng-arnica": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
     "shagblend-horehound-ginseng": {
-      "smokableEffects": [
-        {
-          "type": "bodytemperature",
-          "amount": 5,
-          "cooldown": 0
-        }
-      ]
-    },
-    "shagblend-ginseng-horehound": {
       "smokableEffects": [
         {
           "type": "bodytemperature",
