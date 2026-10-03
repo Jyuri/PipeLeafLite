@@ -379,7 +379,7 @@ namespace PipeLeaf
                     var ingredient2 = _allIngredients[j];
 
                     var blendName1 = $"shagblend-{ingredient1}-{ingredient2}";
-                    var blendName2 = $"shagblend-{ingredient2}-{ingredient1}";
+                    /// var blendName2 = $"shagblend-{ingredient2}-{ingredient1}";
 
                     var combinedEffects = CombineEffects(
                         _ingredientEffects[ingredient1],
@@ -387,7 +387,7 @@ namespace PipeLeaf
                     );
 
                     blends[blendName1] = combinedEffects;
-                    blends[blendName2] = combinedEffects;
+                    /// blends[blendName2] = combinedEffects;
 
                     // Generate display names for language file
                     var lookupKey = $"{ingredient1}-{ingredient2}";
@@ -396,13 +396,13 @@ namespace PipeLeaf
                         // Use special flavor name
                         var special = _specialBlendLookup[lookupKey];
                         _blendDisplayNames[blendName1] = special.FlavorName;
-                        _blendDisplayNames[blendName2] = special.FlavorName;
+                        /// _blendDisplayNames[blendName2] = special.FlavorName;
                     }
                     else
                     {
                         // Generate default names
                         _blendDisplayNames[blendName1] = GenerateDefaultBlendName(ingredient1, ingredient2);
-                        _blendDisplayNames[blendName2] = GenerateDefaultBlendName(ingredient2, ingredient1);
+                        /// _blendDisplayNames[blendName2] = GenerateDefaultBlendName(ingredient2, ingredient1);
                     }
                 }
             }
