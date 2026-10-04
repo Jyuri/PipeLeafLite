@@ -1,0 +1,32 @@
+[
+  {
+    "ingredientPattern": "_A_B_S",
+    "ingredients": {
+      "A": {
+        "type": "item",
+        "code": "pipeleaf:smokable-*-shag",
+        "quantity": 3,
+        "name": "type1"
+      },
+      "B": {
+        "type": "item",
+        "code": "pipeleaf:smokable-edelweiss-shag",
+        "quantity": 2,
+        "name": "type2"
+      },
+      "S": {
+        "type": "item",
+        "code": "pipeleaf:smokable-pipeleaf-shag",
+        "quantity": 1,
+        "name": "type3"
+      }
+    },
+    "width": 3,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "pipeleaf:shagblend-{type1}-{type2}",
+      "quantity": 6
+    }
+  }
+]

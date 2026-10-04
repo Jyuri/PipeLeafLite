@@ -367,6 +367,17 @@ namespace PipeLeaf
             }
         }
 
+        private void ReadGenericShagblends()
+        {
+            var jsonOptions = new JsonSerializerOptions
+            {
+                ReadCommentHandling = JsonCommentHandling.Skip,
+                AllowTrailingCommas = true
+            };
+
+            
+        }
+
         private Dictionary<string, List<SmokableEffect>> GenerateBlends() // Needs changes
         {
             var blends = new Dictionary<string, List<SmokableEffect>>();
